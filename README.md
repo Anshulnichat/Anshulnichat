@@ -1,36 +1,75 @@
 # 👋 Hi, I'm Anshul Nichat
 
-🎓 MSc Artificial Intelligence student at Ulster University, UK  
-📊 Aspiring Data Analyst | Business Analyst | Power BI Enthusiast  
-🌐 Currently exploring real-world AI applications and data-driven storytelling
+🎓 MSc Artificial Intelligence | Ulster University, UK  
+📊 Data Analytics | Cloud Projects | Applied Machine Learning  
+🚀 Passionate about solving real-world problems with data-driven solutions
 
 ---
 
-## 💼 About Me
-I’m passionate about turning data into actionable insights. With a strong foundation in Python, SQL, Power BI, and Cloud Platforms, I enjoy working on projects that blend analytics, automation, and user-centric design.
+## 🧠 About Me
 
-🔍 I'm currently:
-- Building a **NHS Hospital Performance Dashboard** using Python
-- Preparing for the **PL-300: Power BI Data Analyst Certification**
-- Exploring real-time business cases in **Churn Prediction** and **Cloud Deployment**
+I’m a results-oriented AI graduate with a strong foundation in **Python**, **SQL**, and **Power BI**, currently working on data-centric projects that bridge business value with technical execution.
+
+My goal is to create **impactful, production-ready solutions**—whether through optimized dashboards, clean data pipelines, or scalable cloud-hosted systems.
 
 ---
 
-## 🚀 Technical Skills
+## 🔧 Technical Stack
+
 - **Languages**: Python, SQL  
-- **Tools**: Power BI (DAX), Tableau, Excel (VLOOKUP, PivotTables), Trello  
-- **Cloud**: Google Cloud Platform  
-- **Concepts**: Data Cleaning, Statistical Analysis, Dashboard Design  
-
-
-## 📫 Connect with Me
-- 📧 Email: [Anshulnichat@gmail.com](mailto:Anshulnichat@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/anshulnichat](https://linkedin.com/in/anshulnichat)  
+- **Analytics & BI**: Power BI (DAX), Excel, Tableau  
+- **Cloud Platforms**: Google Cloud Platform (GCP)  
+- **Databases**: MySQL  
+- **Concepts**: Data Cleaning, Statistical Modeling, Business Intelligence  
+- **Other Tools**: Trello, Git, Jupyter  
 
 ---
 
-🌱 Open to internships, collaborations, and data-driven challenges!
+## 🚀 Highlight Projects
 
+### 📊 [Customer Churn Analysis](#)
+*Tools: Power BI, DAX, Power Query*  
+- Built an interactive dashboard analyzing 10,000+ customer records  
+- Identified KPIs such as 20.37% churn rate, age-wise segmentation, and credit score impact  
+- Designed real-time filters for actionable business decisions
+
+### ☁️ [Website Hosting on Google Cloud](#)
+*Tools: GCS, Load Balancing, IAM Policies*  
+- Designed and deployed a scalable web hosting solution using GCP  
+- Implemented host/path rules for dynamic subdomain routing  
+- Managed access control and troubleshooting in a multi-team environment
+
+### 📈 [NHS Hospital Performance Dashboard (In Progress)](#)
+*Tools: Python, Pandas, Matplotlib, Seaborn*  
+- Analyzing UK hospital data to uncover trends in capacity, wait times, and efficiency  
+- Designing a Python dashboard for clear, policy-relevant visual insights
+
+---
+
+## 📜 Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+- Google Data Analytics Professional Certificate  
+- PL-300: Power BI Data Analyst Associate *(in progress)*
+
+---
+
+## 🔍 Currently Open To:
+- Graduate roles in **Data/Business Analytics**, **Cloud/AI Projects**  
+- Internships & Part-Time Opportunities (UK-based or Remote)  
+- Collaboration on open-source, healthcare, or social impact data projects
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/anshulnichat)  
+- 📧 AnshulNichat@gmail.com
+
+---
+
+🚀 “The best way to predict the future is to build it.”  
+Let’s build something impactful.
 
 <!--
 **Anshulnichat/Anshulnichat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
