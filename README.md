@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Graduate | Data Analyst | Cloud Enthusiast<br><br>📍 Based in the UK | MSc Artificial Intelligence – Ulster University<br>💡 I build smart, scalable data solutions using Python, SQL, Power BI & GCP.<br>📊 Projects: Customer Churn • NHS Analytics • Cloud-Hosted Dashboards<br><br>Let’s connect → LinkedIn | 📧 Anshulnichat@gmail.com
+AI Graduate | Data Analyst | Cloud Enthusiast<br><br>📍 Based in the UK | MSc Artificial Intelligence – Ulster University<br>💡 I build smart, scalable data solutions using Python, SQL, Power BI & GCP.<br>📊 Projects: Customer Churn • NHS Analytics • Cloud-Hosted Dashboards
 
 
 ## 🌐 Socials:
