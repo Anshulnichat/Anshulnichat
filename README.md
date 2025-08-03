@@ -6,7 +6,7 @@ AI Graduate | Data Analyst | Cloud Enthusiast
 💡 I build smart, scalable data solutions using Python, SQL, Power BI & GCP.  
 📊 Projects: Customer Churn • NHS Analytics • Cloud-Hosted Dashboards  
 
-Let’s connect → [LinkedIn](https://linkedin.com/in/anshulnichat) | 📧 AnshulNichat@gmail.com
+Let’s connect → [LinkedIn](https://linkedin.com/in/anshulnichat) | 📧 Anshulnichat@gmail.com
 
 <!--
 **Anshulnichat/Anshulnichat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
