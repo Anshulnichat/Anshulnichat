@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Graduate | Data Analyst | Cloud Enthusiast<br><br>📍 Based in the UK | MSc Artificial Intelligence – Ulster University<br>💡 I build smart, scalable data solutions using Python, SQL, Power BI & GCP.<br>📊 Projects: Customer Churn • NHS Analytics • Cloud-Hosted Dashboards
+AI Graduate | Data Analyst | Cloud Enthusiast<br><br>📍 Based in the UK | MSc Artificial Intelligence – Ulster University<br>💡 I build smart, scalable data solutions using Python, SQL, Power BI & GCP.<br>📊 Projects: Sales Employee Data • Customer Churn • NHS Analytics • Cloud-Hosted Dashboards
 
 
 ## 🌐 Socials:
